@@ -16,4 +16,12 @@ This project is designed to analyze and understand unit economics using Python. 
 
 The project contains the following files:
 
-|── Unit Economics with Python.ipynb # Jupyter notebook with the project code |── data/ # Directory to store input data files |── requirements.txt # List of Python libraries required to run the project |── README.md # Documentation for the project
+- Unit Economics with Python.ipynb: Jupyter notebook with the project code.
+- data/: Directory to store input data files.
+- requirements.txt: List of Python libraries required to run the project.
+- README.md: Documentation for the project.
+
+
+
+
+
